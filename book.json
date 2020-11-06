@@ -1,5 +1,8 @@
 {
-    "theme-default": {
-        "showLevel": true
-    }
+    "language": "zh",
+    "pluginsConfig": {
+            "theme-default": {
+                    "showLevel": true
+                }
+        }
 }
